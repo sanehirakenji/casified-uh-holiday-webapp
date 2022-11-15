@@ -10,4 +10,5 @@
 
 # Test Checklist
 
-- [ ] General Visual Inspection:
+- [ ] General Visual Inspection
+- [ ] JEST and React Testing Library Tests
